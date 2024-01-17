@@ -80,7 +80,7 @@ const Main = () => {
           <div>
             <h2 id="heading" style={{ color: "#000080" }}>
               {language === "hindi"
-                ? "राजस्थान पुलिस सुझाव प्रnणाली"
+                ? "राजस्थान पुलिस सुझाव प्रणाली"
                 : "Rajasthan Police Feedback System"}
             </h2>
           </div>
@@ -358,7 +358,7 @@ const Main = () => {
       <center>
       <Typography variant="h5"  color="black">
          
-         {language === "hindi" ? "प्रतिक्रिया" : "Citizen Feedback:"}
+         {language === "hindi" ? "प्रतिक्रिया" : "Citizen Feedback"}
        </Typography>
           </center>
       
